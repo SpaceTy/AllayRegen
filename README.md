@@ -3,7 +3,8 @@
 A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 2 seconds.
 
 **Created by SpaceTy**  
-**Join my server: [https://apply.spacety.dev](https://apply.spacety.dev)**
+**Join my server: [https://apply.spacety.dev](https://apply.spacety.dev)**  
+**📦 [Download Latest Release](https://github.com/SpaceTy/AllayRegen/releases/tag/MAIN)**
 
 ## Features
 
@@ -13,8 +14,8 @@ A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 2 seconds.
 
 ## Installation
 
-1. Download this datapack folder
-2. Place it in your world's `datapacks` folder:
+1. **Download the zip file** from [GitHub Releases](https://github.com/SpaceTy/AllayRegen/releases/tag/MAIN)
+2. Extract the zip file to your world's `datapacks` folder:
    - Singleplayer: `.minecraft/saves/[world_name]/datapacks/`
    - Server: `[server_folder]/world/datapacks/`
 3. In-game, run: `/reload`

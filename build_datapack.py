@@ -19,7 +19,6 @@ def build_datapack():
     # Files and directories to include
     files_to_include = [
         "pack.mcmeta",
-        "README.md",
         "data/allayregen/functions/tick.mcfunction",
         "data/allayregen/functions/regenerate_allays.mcfunction", 
         "data/allayregen/functions/load.mcfunction",
