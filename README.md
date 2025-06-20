@@ -1,6 +1,6 @@
 # Allay Regeneration Datapack
 
-A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 30 seconds.
+A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 2 seconds.
 
 **Created by SpaceTy**  
 **Join my server: [https://apply.spacety.dev](https://apply.spacety.dev)**
@@ -10,7 +10,6 @@ A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 30 seconds.
 - ✨ Allays automatically regenerate to full health every 30 seconds
 - 🚀 **Anti-lag design**: Heals small groups (max 5) every 2 seconds instead of all at once
 - 🎯 Only heals allays that are not at full health
-- 📦 Simple installation
 
 ## Installation
 
@@ -44,7 +43,6 @@ A Minecraft 1.21.4 datapack that makes allays regenerate 1 heart per 30 seconds.
 
 - **Pack Format**: 26 (Minecraft 1.21.4)
 - **Healing Rate**: Up to 5 allays every 2 seconds
-- **Total Time**: All allays will be healed within 30 seconds (depending on count)
 - **Performance**: Distributed load prevents lag spikes
 
 ## Files Structure
@@ -69,4 +67,4 @@ allayregen/
 ---
 
 **Want to play on a server with this datapack?**  
-**Apply to join SpaceTy's server: [https://apply.spacety.dev](https://apply.spacety.dev)** 
+**Apply to join my server "TYSMP": [https://apply.spacety.dev](https://apply.spacety.dev)** 
